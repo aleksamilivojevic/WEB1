@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAmenities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Amenities>
+    <Id>0</Id>
+    <Naziv>Bazen</Naziv>
+    <Obrisan>false</Obrisan>
+  </Amenities>
+  <Amenities>
+    <Id>1</Id>
+    <Naziv>Spa</Naziv>
+    <Obrisan>false</Obrisan>
+  </Amenities>
+  <Amenities>
+    <Id>2</Id>
+    <Naziv>Invaliditet</Naziv>
+    <Obrisan>false</Obrisan>
+  </Amenities>
+  <Amenities>
+    <Id>3</Id>
+    <Naziv>Wifi</Naziv>
+    <Obrisan>false</Obrisan>
+  </Amenities>
+  <Amenities>
+    <Id>4</Id>
+    <Naziv>PetFriendly</Naziv>
+    <Obrisan>false</Obrisan>
+  </Amenities>
+</ArrayOfAmenities>

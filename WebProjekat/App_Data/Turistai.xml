@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKorisnikTurista xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KorisnikTurista>
+    <KorisnickoIme>turista</KorisnickoIme>
+    <Lozinka>turista</Lozinka>
+    <Ime>turista</Ime>
+    <Prezime>turista</Prezime>
+    <Pol>MUSKI</Pol>
+    <Uloga>Turista</Uloga>
+    <Blokiran>false</Blokiran>
+    <IdRezervacija>
+      <int>0</int>
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+    </IdRezervacija>
+  </KorisnikTurista>
+</ArrayOfKorisnikTurista>
